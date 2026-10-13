@@ -1,6 +1,6 @@
 import java.util.Scanner;
-//DESAFIO DIO
-public class javaDesafiosetorbancario {
+//DESAFIO DIO 01
+public class javaDesafiosetorbancario01 {
 
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
