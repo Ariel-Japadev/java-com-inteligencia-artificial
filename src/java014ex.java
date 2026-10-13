@@ -8,6 +8,7 @@ public class java014ex {
         double altura = scan.nextDouble();
         System.out.println("informe seu peso");
         double peso = scan.nextDouble();
+
         double imc = peso / Math.pow(altura, 2);
 
         if (imc >= 40) {
