@@ -20,5 +20,7 @@ public class java08ex {
             default -> ("opção invalida");
         };
         System.out.println(message);
+
+        scan.close();
     }
 }
