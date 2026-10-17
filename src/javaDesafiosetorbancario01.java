@@ -7,7 +7,7 @@ public class javaDesafiosetorbancario01 {
 
         String operacao = scan.nextLine();
 
-        Boolean operacaovalida = false;
+        boolean operacaovalida = false;
 
         operacaovalida = operacao.equals("DEPOSITO") || operacao.equals("SAQUE") || operacao.equals("TRANSFERENCIA");
 
